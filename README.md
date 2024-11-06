@@ -4,10 +4,13 @@ We are using this Bank Account in Java for testing Preconditions contracts
 
 for runnig the JUnit Test over the project oyu need to click Right button over the project and select Run As,
 then open Run Configuration, then switch to the Arguments tab and check if your Virtual Machine(VM) Arguments has this -->
-**
+
+
+
 -ea
 -javaagent:cofoja.asm.jar
-**
+
+
 After that you are eligable to Run the JUnit test without having Test Failures
 
 ****Additional Descrtiption****
