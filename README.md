@@ -8,6 +8,7 @@ then open Run Configuration, then switch to the Arguments tab and check if your 
 
 
 -ea
+
 -javaagent:cofoja.asm.jar
 
 
